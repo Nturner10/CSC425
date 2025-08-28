@@ -1,0 +1,56 @@
+Problem Statement: Barriers to Education for Rural Community College Students
+Target User Group
+ Rural Community College Students
+ Primarily adult learners and part-time students living 30+ miles from campus with limited access to high-speed internet and reliable transportation.
+
+Description of the Problem
+ Students in rural areas frequently struggle to attend required in-person classes due to inadequate public transportation and limited internet connectivity. These challenges hinder their ability to keep up with coursework, resulting in delayed graduation, missed deadlines, and, in many cases, increased dropout rates. This situation undermines efforts to provide equitable access to education and contributes to systemic inequality in academic outcomes for rural learners.
+Evidence of the Problem
+“I drive over an hour each way just to attend one class. If my car breaks down, I fall behind instantly.” — Anonymous student interview
+
+
+The FCC (2024) reports that 22% of rural Americans still lack access to reliable high-speed internet.
+
+
+A 2023 survey by the Rural Access Coalition found that 38% of rural students reported missing classes due to transportation issues.
+
+
+How Might We Statement
+ How might we reduce barriers to class participation for rural community college students who lack consistent transportation and internet access?
+User Persona
+ Name: Maria Lopez
+ Age: 32
+ Occupation: Part-time cashier, part-time community college student
+ Location: Benton, KY
+ Goals: Complete her associate degree and transfer to a four-year university
+ Frustrations:
+Limited or no public transportation
+
+
+No broadband internet at home
+
+
+Misses assignment deadlines when unable to reach campus
+ Technology Comfort Level:
+
+
+Uses smartphone daily
+
+
+No access to a personal computer at home
+
+
+Moderate tech skills, primarily mobile-based
+
+
+Ethical Lens Applied
+Principle: Equity of access to education
+
+
+Application: Rural students face systemic disadvantages that limit their academic success, violating principles of fairness and inclusion.
+
+
+Stakeholders Impacted: Students, faculty designing course delivery, and community colleges aiming to improve retention and graduation rates.
+
+
+Professional Standard: Aligns with ACM Code of Ethics 1.4 — "Be fair and take action not to discriminate."
