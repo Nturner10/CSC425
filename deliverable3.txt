@@ -1,0 +1,146 @@
+Tucker Jones
+9/11/2025
+Branch: Tucker
+User Group Profile - College Commuters:
+Who: Undergraduate students who live off-campus and commute (by car or campus bus) to attend classes.
+Demographics (typical / target):
+Age: 18–24 (undergraduate).
+
+
+Income: large spread — many working part-time; some financial constraints.
+
+
+Tech comfort: High — near-universal smartphone ownership in this age group. Pew Research Center
+
+
+Common habits & context
+Drive or ride campus shuttles daily; check phone for directions; use maps and scheduling apps; balance work + classes.
+
+
+Peak demand: mornings (class start window), evenings, and between major class blocks.
+
+
+Primary pain points
+Time wasted cruising for parking or standing at unpredictable shuttle stops.
+
+
+Late arrivals (penalties, missed material).
+
+
+Stress and extra cost (parking fees, parking permit uncertainty).
+
+
+Lack of centralized, real-time info about both parking availability and shuttle ETAs.
+Market Size & Opportunity:
+Authoritative enrollment references used
+NCES (Fast Facts / COE): baseline undergraduate enrollment data/projections. National Center for Education Statistics
+
+
+Recent aggregator (Fall 2024 estimate): EducationData (used to show range). Education Data Initiative
+
+
+Key assumption (supported by literature above): ~85% of undergraduate students are not living in institution-owned housing (commuter or off-campus residents) — used as an upper-bound estimate for “commuter” population. ERIC+1
+Estimates (computed using source totals × 85%) — shown visually below
+NCES baseline figure (15.4M undergrads) → ~13.09M commuter students (15,400,000 × 0.85 = 13,090,000). National Center for Education Statistics
+
+
+NCES projection (16.8M) → ~14.28M commuters. National Center for Education Statistics
+
+
+EducationData (Fall 2024: 19.28M) → ~16.39M commuters (19,280,000 × 0.85 = 16,388,000). Education Data Initiative
+
+
+TAM (total addressable market): 13–16.4 million U.S. commuter undergrads (range reflects differing enrollment sources). National Center for Education Statistics+1
+SAM (serviceable addressable market): realistic target subset — commuter students at institutions with parking shortages, shuttle systems, and smartphone usage. If we assume ~30–40% of commuters are in campuses/cities where parking + shuttle coordination is acute and the university is open to partnerships → ~3.9M–6.6M students.
+SOM (serviceable obtainable market, year 1 pilot): a conservative pilot aiming for 0.5–1% penetration of SAM in year 1 → ~20k–66k active users (depending on SAM assumptions). Use campus pilots (2–5 schools) to validate adoption before scaling.
+ 
+Competitor Analysis:
+A. ParkMobile (parking discovery + payments + campus solutions)
+What it does: find & pay for parking, reserve spots; offers campus parking integrations / ePermit features for campuses. ParkMobile+1
+
+
+Strengths: widespread network for on-street and garage payments; campus permit integration where enabled.
+
+
+Gaps vs. our product idea: focused on payment/reservation and permit management; less emphasis on integrated real-time campus shuttle tracking, predictive ETA for shuttles, or personalized commuter routing across parking + transit. (ParkMobile helps pay but doesn’t by itself unify shuttle + parking availability across a campus.)
+
+
+B. SpotHero (reservation marketplace; Google Maps integration)
+What it does: reserve private parking in cities and lots; recently integrated booking with Google Maps. Good for advance reservations in urban areas. SpotHero+1
+
+
+Strengths: consumer-friendly reservation experience, deep urban inventory, integrations that simplify discovery.
+
+
+Gaps: Not tailored to campus permit systems and campus shuttle networks; limited to reservation inventory (not necessarily real-time campus lot occupancy or shuttle ETAs).
+
+
+C. TransLoc / TransLoc Rider (campus shuttle tracking and microtransit)
+What it does: real-time shuttle/bus tracking, schedules, estimated arrivals, bookmarking stops; widely used on campuses for live transit info and on-demand microtransit. TransLoc+1
+
+
+Strengths: campus transit focus and mature shuttle tracking features.
+
+
+Gaps: Strong on transit, weaker on live parking availability, permit waitlists, and integrated parking + shuttle routing in a single commuter experience.
+
+
+Takeaway: existing players each own one slice of the commuter experience: payments/reservations (ParkMobile/SpotHero) or shuttle tracking (TransLoc). A campus-first integrated solution that unifies real-time parking availability, permit/waitlist, and shuttle ETA/predictive routing (plus commuter personalization and equity features) is not currently well served by a single unified app.
+Unique Value Proposition (UVP):
+“One app for the commuter day.”
+ A single, campus-integrated app that combines:
+Real-time parking availability (sensor or operator feed + map overlay).
+
+
+Live shuttle tracking with predictive ETAs (historical + live data).
+
+
+Permit application, waitlist, & short-term reservations (integrate with existing ePermit systems).
+
+
+Personalized commuter routing that suggests where to park & whether to take a shuttle, including time-to-class estimates.
+
+
+Equity features: low-cost reservation options, targeted communication for students with financial need, and data privacy controls.
+
+
+B2B dashboard for campus admins (analytics: utilization, peak times, equity metrics).
+
+
+Why it stands out: instead of pushing users to multiple apps (reservation app + transit tracker), it reduces cognitive load and time wasted by combining data layers and offering actionable, predictive recommendations.
+AI Use Section:
+
+Tools Used:
+
+ChatGPT-5
+
+Prompts Used:
+
+"Draft a market research section for a campus commuter parking and shuttle app: include user profile, visual evidence, TAM/SAM/SOM with calculations, competitor analysis and UVP(Unique Value Proposition). Cite and provide a link to each source as well as provide a list of the sources used."
+
+Fact Check:
+
+I fact checked chat gpt by having it list a link to the sources it used and went to check if each source was credible and accurate. I also had it list off a quick references list with the used sources(provided below).
+Quick references (selected sources used above):
+NCES / Fast Facts (undergraduate enrollment & projections). National Center for Education Statistics
+
+
+Trellis Company — Transportation as a Barrier to Higher Education (SFWS findings on missing class). Trellis Company
+
+
+Daily Bruin — UCLA parking permit survey. Daily Bruin
+
+
+ParkMobile — campus parking solutions. ParkMobile
+
+
+SpotHero — reservations (and Google Maps integration news). SpotHero+1
+
+
+TransLoc — campus shuttle tracking and features. TransLoc+1
+
+
+Pew Research Center (mobile/smartphone ownership & usage). Pew Research Center
+
+
+
