@@ -1,0 +1,71 @@
+2. 
+Authentication
+User sign up/login with campus credentials or email/password
+
+
+Parking System
+Read available parking spots 
+Update availability in real time
+
+
+Shuttle Tracking
+Live bus location display
+Estimated arrival times
+
+
+CRUD Operations
+Users can manage their profile (Create/Update personal preferences, e.g., preferred lot or shuttle route)
+Admin can add/update parking/shuttle data sources
+
+
+Notifications
+Push alerts for lot closures, full lots, shuttle delays
+
+
+Search & Filtering
+Search parking lots by name, filter by proximity or availability
+
+
+3. 
+As a commuter student, I want to see real-time parking availability, so that I don’t waste time driving around looking for a spot.
+
+
+As a commuter student, I want to track campus shuttles on a live map, so that I know when to leave my car and catch the bus.
+
+
+As a student with a busy schedule, I want to receive push notifications about full lots or shuttle delays, so that I can adjust my commute quickly.
+
+
+As a student who prefers certain parking lots, I want to set favorites, so that I can quickly check my usual spots first.
+
+
+As a campus transportation admin, I want to update parking and shuttle information easily, so that students always see the latest info.
+
+
+4. 
+Step 1: Login/Sign Up
+Student opens app → Logs in with campus ID
+
+
+Step 2: Dashboard
+Immediately sees parking availability and shuttle times
+High-priority alerts (e.g., “Lot B is full”) pop up
+
+
+Step 3: Parking Map Exploration
+Student taps “Parking Map” → Interactive map shows lots with availability
+Selects a lot → Gets directions
+
+
+Step 4: Shuttle Tracking
+Student taps “Shuttle Tracker” → Views live shuttle movement
+Sees ETA for shuttle at nearest stop
+
+
+Step 5: Notifications
+While commuting, student receives push alert “Lot A just closed”
+Student reroutes to next available lot
+
+
+Step 6: End Goal
+Student parks efficiently, arrives at class on time with less stress
